@@ -1,1 +1,1 @@
-file:///D:/academy/index.html
+https://cyrinerebai.github.io/cyrine/.
